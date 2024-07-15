@@ -9,3 +9,5 @@
 # Após essa falha aprendi que preciso dar o comando git commit -m "exmplo" primeiro para poder o git push funcionar.
 
 # teste de git pull e git push reaizado com sucesso. 15/07/2024 01:48 hrs.
+
+# Agora aprendendo a usar o comando git clone para puxar um repositório remoto para minha maquina. 15/07/2024 01:54 hrs.
