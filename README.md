@@ -11,3 +11,5 @@
 # teste de git pull e git push reaizado com sucesso. 15/07/2024 01:48 hrs.
 
 # Agora aprendendo a usar o comando git clone para puxar um repositório remoto para minha maquina. 15/07/2024 01:54 hrs.
+
+# Não tive nenhum problema com o git clone. Tudo ocorreu como desejado. 15/07/2024 01:56 hrs.
